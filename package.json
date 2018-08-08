@@ -1,0 +1,28 @@
+{
+  "name": "cli-hmr-playground",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "./cli.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghoullier/cli-hmr-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghoullier/cli-hmr-playground/issues"
+  },
+  "homepage": "https://github.com/ghoullier/cli-hmr-playground#readme",
+  "dependencies": {
+    "hot-module-replacement": "^3.0.1",
+    "injection-js": "^2.2.1",
+    "reflect-metadata": "^0.1.12",
+    "ts-node": "^7.0.0",
+    "typescript": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.7"
+  }
+}
